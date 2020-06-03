@@ -1,0 +1,567 @@
+[15-May-2020 05:05:43 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 05:05:43 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 05:05:46 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 05:05:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 05:05:51 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 05:05:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 05:05:58 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 05:05:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 06:33:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-1.php on line 217
+[15-May-2020 09:21:46 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:21:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:21:49 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:21:49 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:21:58 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:21:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:23:45 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:23:45 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:23:54 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:23:54 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(24): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:24:55 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:24:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(12): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:26:03 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:26:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(12): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:28:13 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:28:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(12): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:29:30 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:29:30 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(12): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:30:33 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:30:33 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(12): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:31:21 UTC] PHP Warning:  getimagesize(circle.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:31:21 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: circle.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('circle.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-2.php(12): FPDF->Image('circle.jpg', 24, 71, 7)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[15-May-2020 09:38:09 UTC] PHP Warning:  getimagesize(logo-4.jpg): failed to open stream: No such file or directory in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 1237
+[15-May-2020 09:38:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: logo-4.jpg in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(1239): FPDF->Error('Missing or inco...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(885): FPDF->_parsejpg('logo-4.jpg')
+#2 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/pdf-4.php(18): FPDF->Image('logo-4.jpg', 10, 10, 15)
+#3 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:48:32 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:48:39 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:48:47 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:48:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:06 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:12 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:18 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:49:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:15 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:15 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:15 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:53:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:54:10 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 12:54:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:08:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Lai...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:16:36 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:16:38 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Sha...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:26:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Pet...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:26:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: Pet...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:43:40 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:43:44 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:44:32 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:44:34 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:45:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:45:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:45:19 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:45:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:47:01 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:47:02 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:47:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:47:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:47:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:48:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:48:10 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:49:33 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 13:50:52 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:07:04 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:10:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:10:44 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:11:04 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:13:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:13:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:13:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:13:52 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:16:21 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:16:27 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:17:20 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:17:25 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:18:31 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:19:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: tes...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:24:35 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:25:33 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(189.99905555556, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:26:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:28:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:30:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:30:25 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:33:41 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: sar...', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:34:27 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:34:45 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271
+[22-May-2020 14:34:52 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: No font has been set in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php:271
+Stack trace:
+#0 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php(625): FPDF->Error('No font has bee...')
+#1 /home/incipit/public_html/beaufort-jasper.vregistration/pdf/permission-to-screen-assess.php(50): FPDF->Cell(80, 5, 'Child Name: ', 0, 0, 'L')
+#2 {main}
+  thrown in /home/incipit/public_html/beaufort-jasper.vregistration/pdf/fpdf.php on line 271

@@ -1,0 +1,193 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Name>PhaseTwo</Name>
+    <ProjectGuid>{710f9ca5-5349-4e03-a4a7-97c4d7a2cae8}</ProjectGuid>
+    <RootNamespace>
+    </RootNamespace>
+    <OutputType>Library</OutputType>
+    <ProjectTypeGuids>{A0786B88-2ADB-4C21-ABE8-AA2D79766269}</ProjectTypeGuids>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <IncludeDebugInformation>true</IncludeDebugInformation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <IncludeDebugInformation>false</IncludeDebugInformation>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="beaufort-jasper-eoc-head-start.php" />
+    <Compile Include="consent-for-communication.php" />
+    <Compile Include="consent-for-focus-first.php" />
+    <Compile Include="consent-for-release-of-information.php" />
+    <Compile Include="consent-for-services-dental-physical.php" />
+    <Compile Include="corporal-punishment-childabuse-policy.php" />
+    <Compile Include="determination-of-child-health-status-source.php" />
+    <Compile Include="download.php" />
+    <Compile Include="emergency-treatment.php" />
+    <Compile Include="family-communication-form.php" />
+    <Compile Include="health-and-nutrition-history.php" />
+    <Compile Include="index.php" />
+    <Compile Include="infant-statement-2018.php" />
+    <Compile Include="language.php" />
+    <Compile Include="mental-health-consultation-consent-form.php" />
+    <Compile Include="necessary-health-form.php" />
+    <Compile Include="parent-handbook-signoff.php" />
+    <Compile Include="pdf\consent-for-communication.php" />
+    <Compile Include="pdf\consent-for-focus-first.php" />
+    <Compile Include="pdf\consent-for-release-of-information.php" />
+    <Compile Include="pdf\consent-for-services-dental-physical.php" />
+    <Compile Include="pdf\corporal-punishment-childabuse-policy.php" />
+    <Compile Include="pdf\determination-of-child-health-status-source.php" />
+    <Compile Include="pdf\early-head-start.php" />
+    <Compile Include="pdf\emergency-treatment.php" />
+    <Compile Include="pdf\family-communication-form.php" />
+    <Compile Include="pdf\font\BITCBLKAD.php" />
+    <Compile Include="pdf\font\courier.php" />
+    <Compile Include="pdf\font\courierb.php" />
+    <Compile Include="pdf\font\courierbi.php" />
+    <Compile Include="pdf\font\courieri.php" />
+    <Compile Include="pdf\font\helvetica.php" />
+    <Compile Include="pdf\font\helveticab.php" />
+    <Compile Include="pdf\font\helveticabi.php" />
+    <Compile Include="pdf\font\helveticai.php" />
+    <Compile Include="pdf\font\ITCBLKAD.php" />
+    <Compile Include="pdf\font\symbol.php" />
+    <Compile Include="pdf\font\times.php" />
+    <Compile Include="pdf\font\timesb.php" />
+    <Compile Include="pdf\font\timesbi.php" />
+    <Compile Include="pdf\font\timesi.php" />
+    <Compile Include="pdf\font\zapfdingbats.php" />
+    <Compile Include="pdf\fpdf.php" />
+    <Compile Include="pdf\health-and-nutrition-history.php" />
+    <Compile Include="pdf\infant-statement-2018.php" />
+    <Compile Include="pdf\mental-health-consultation-consent-form.php" />
+    <Compile Include="pdf\parent-handbook-signoff.php" />
+    <Compile Include="pdf\permission-to-screen-assess.php" />
+    <Compile Include="pdf\photo-consent.php" />
+    <Compile Include="pdf\policy-agreement.php" />
+    <Compile Include="pdf\pre-kindgergarten-head-start.php" />
+    <Compile Include="pdf\responsibe-reciever-authorization-form-2019.php" />
+    <Compile Include="pdf\save_path.php" />
+    <Compile Include="pdf\statement-of-childs-health-spanish.php" />
+    <Compile Include="pdf\statement-of-childs-health.php" />
+    <Compile Include="pdf\telehealth-consent-form.php" />
+    <Compile Include="pdf\thankyou.php" />
+    <Compile Include="pdf\transportation-agreement.php" />
+    <Compile Include="pdf\transportation-permission-form.php" />
+    <Compile Include="pdf\WriteHTML.php" />
+    <Compile Include="permission-to-screen-assess.php" />
+    <Compile Include="photo-consent.php" />
+    <Compile Include="policy-agreement.php" />
+    <Compile Include="responsibe-reciever-authorization-form-2019.php" />
+    <Compile Include="statement-of-childs-health-spanish.php" />
+    <Compile Include="statement-of-childs-health.php" />
+    <Compile Include="telehealth-consent-form.php" />
+    <Compile Include="test.php" />
+    <Compile Include="thank-you.php" />
+    <Compile Include="transportation-agreement.php" />
+    <Compile Include="transportation-permission-form.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\images\ui-icons_444444_256x240.png" />
+    <Content Include="css\index-style.css" />
+    <Content Include="css\jquery-ui.min.css" />
+    <Content Include="css\style.css" />
+    <Content Include="error_log" />
+    <Content Include="htaccess" />
+    <Content Include="img\back-thankyou.png" />
+    <Content Include="img\body-back.jpg" />
+    <Content Include="img\cap-logo-header.png" />
+    <Content Include="img\check.png" />
+    <Content Include="img\image-left.png" />
+    <Content Include="img\image-right.png" />
+    <Content Include="img\index-logo.png" />
+    <Content Include="img\pdf-10\logo-10-1.jpg" />
+    <Content Include="img\pdf-10\logo-10-2.jpg" />
+    <Content Include="img\pdf-10\logo-10-3.jpg" />
+    <Content Include="img\pdf-11\header-11.jpg" />
+    <Content Include="img\pdf-13\logo-13.jpg" />
+    <Content Include="img\pdf-4\logo.jpg" />
+    <Content Include="img\pdf-5\logo-5.jpg" />
+    <Content Include="img\pdf-6\header-6.jpg" />
+    <Content Include="img\pdf-6\logo-6.jpg" />
+    <Content Include="img\pdf-7\header-7.jpg" />
+    <Content Include="img\pdf-8\header-8.jpg" />
+    <Content Include="img\thanks.png" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\custom-valiation.js" />
+    <Content Include="js\global-variable.js" />
+    <Content Include="js\jquery-ui.min.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\popper.min.js" />
+    <Content Include="js\progress.plugin.js" />
+    <Content Include="LiveProject.phpproj" />
+    <Content Include="pdf\check.png" />
+    <Content Include="pdf\circle.jpg" />
+    <Content Include="pdf\error_log" />
+    <Content Include="pdf\font\BITCBLKAD.z" />
+    <Content Include="pdf\font\ITCBLKAD.z" />
+    <Content Include="pdf\header-11.jpg" />
+    <Content Include="pdf\header-6.jpg" />
+    <Content Include="pdf\header-7.jpg" />
+    <Content Include="pdf\header-8.jpg" />
+    <Content Include="pdf\header-9.jpg" />
+    <Content Include="pdf\index-logo.png" />
+    <Content Include="pdf\logo-10-1.jpg" />
+    <Content Include="pdf\logo-10-2.jpg" />
+    <Content Include="pdf\logo-10-3.jpg" />
+    <Content Include="pdf\logo-13.jpg" />
+    <Content Include="pdf\logo-4.jpg" />
+    <Content Include="pdf\logo-5.jpg" />
+    <Content Include="pdf\logo-6.jpg" />
+    <Content Include="pdf\logo.jpg" />
+    <Content Include="pdf\save\Dental.pdf" />
+    <Content Include="pdf\save\Medical.pdf" />
+    <Content Include="pdf\save\pdf12\.pdf" />
+    <Content Include="pdf\save\pdf3\asd asd.pdf" />
+    <Content Include="pdf\save\pdf7\asd.pdf" />
+    <Content Include="pdf\save\pdf9\asd.pdf" />
+    <Content Include="pdf\save\Providers List 2020-2021.pdf" />
+    <Content Include="VRegistration.phpproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".well-known\" />
+    <Folder Include=".well-known\acme-challenge\" />
+    <Folder Include="cgi-bin\" />
+    <Folder Include="css\" />
+    <Folder Include="css\images\" />
+    <Folder Include="img\" />
+    <Folder Include="img\pdf-10\" />
+    <Folder Include="img\pdf-11\" />
+    <Folder Include="img\pdf-13\" />
+    <Folder Include="img\pdf-4\" />
+    <Folder Include="img\pdf-5\" />
+    <Folder Include="img\pdf-6\" />
+    <Folder Include="img\pdf-7\" />
+    <Folder Include="img\pdf-8\" />
+    <Folder Include="js\" />
+    <Folder Include="pdf\" />
+    <Folder Include="pdf\font\" />
+    <Folder Include="pdf\save\" />
+    <Folder Include="pdf\save\pdf10\" />
+    <Folder Include="pdf\save\pdf11\" />
+    <Folder Include="pdf\save\pdf12\" />
+    <Folder Include="pdf\save\pdf13\" />
+    <Folder Include="pdf\save\pdf14\" />
+    <Folder Include="pdf\save\pdf15\" />
+    <Folder Include="pdf\save\pdf16\" />
+    <Folder Include="pdf\save\pdf19\" />
+    <Folder Include="pdf\save\pdf1\" />
+    <Folder Include="pdf\save\pdf20\" />
+    <Folder Include="pdf\save\pdf21\" />
+    <Folder Include="pdf\save\pdf22\" />
+    <Folder Include="pdf\save\pdf2\" />
+    <Folder Include="pdf\save\pdf3\" />
+    <Folder Include="pdf\save\pdf4\" />
+    <Folder Include="pdf\save\pdf5\" />
+    <Folder Include="pdf\save\pdf6\" />
+    <Folder Include="pdf\save\pdf7\" />
+    <Folder Include="pdf\save\pdf8\" />
+    <Folder Include="pdf\save\pdf9\" />
+  </ItemGroup>
+</Project>
